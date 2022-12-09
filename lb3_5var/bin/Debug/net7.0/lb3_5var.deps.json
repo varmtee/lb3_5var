@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "lb3_5var/1.0.0": {
+        "runtime": {
+          "lb3_5var.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lb3_5var/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

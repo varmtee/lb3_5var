@@ -1,0 +1,15 @@
+/Users/MacOS/Projects/lb3_5var/lb3_5var/bin/Debug/net7.0/lb3_5var
+/Users/MacOS/Projects/lb3_5var/lb3_5var/bin/Debug/net7.0/lb3_5var.deps.json
+/Users/MacOS/Projects/lb3_5var/lb3_5var/bin/Debug/net7.0/lb3_5var.runtimeconfig.json
+/Users/MacOS/Projects/lb3_5var/lb3_5var/bin/Debug/net7.0/lb3_5var.dll
+/Users/MacOS/Projects/lb3_5var/lb3_5var/bin/Debug/net7.0/lb3_5var.pdb
+/Users/MacOS/Projects/lb3_5var/lb3_5var/obj/Debug/net7.0/lb3_5var.csproj.AssemblyReference.cache
+/Users/MacOS/Projects/lb3_5var/lb3_5var/obj/Debug/net7.0/lb3_5var.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MacOS/Projects/lb3_5var/lb3_5var/obj/Debug/net7.0/lb3_5var.AssemblyInfoInputs.cache
+/Users/MacOS/Projects/lb3_5var/lb3_5var/obj/Debug/net7.0/lb3_5var.AssemblyInfo.cs
+/Users/MacOS/Projects/lb3_5var/lb3_5var/obj/Debug/net7.0/lb3_5var.csproj.CoreCompileInputs.cache
+/Users/MacOS/Projects/lb3_5var/lb3_5var/obj/Debug/net7.0/lb3_5var.dll
+/Users/MacOS/Projects/lb3_5var/lb3_5var/obj/Debug/net7.0/refint/lb3_5var.dll
+/Users/MacOS/Projects/lb3_5var/lb3_5var/obj/Debug/net7.0/lb3_5var.pdb
+/Users/MacOS/Projects/lb3_5var/lb3_5var/obj/Debug/net7.0/lb3_5var.genruntimeconfig.cache
+/Users/MacOS/Projects/lb3_5var/lb3_5var/obj/Debug/net7.0/ref/lb3_5var.dll
